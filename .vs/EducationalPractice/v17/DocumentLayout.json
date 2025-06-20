@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{22222222-2222-2222-2222-222222222222}|EducationalPractice.Tests\\EducationalPractice.Tests.csproj|solutionrelative:educationalpractice.tests\\enemyfactorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|EducationalPractice\\EducationalPractice.csproj|c:\\users\\dfnaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vsproj\\educationalpractice_fixed\\educationalpractice\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|EducationalPractice\\EducationalPractice.csproj|C:\\Users\\dfnaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\VSProj\\EducationalPractice_Fixed\\educationalpractice\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|EducationalPractice\\EducationalPractice.csproj|solutionrelative:educationalpractice\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -19,7 +19,7 @@
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|EducationalPractice\\EducationalPractice.csproj|solutionrelative:educationalpractice\\gamemain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|EducationalPractice\\EducationalPractice.csproj|c:\\users\\dfnaf\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\vsproj\\educationalpractice_fixed\\educationalpractice\\startmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|EducationalPractice\\EducationalPractice.csproj|C:\\Users\\dfnaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\VSProj\\EducationalPractice_Fixed\\educationalpractice\\startmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|EducationalPractice\\EducationalPractice.csproj|solutionrelative:educationalpractice\\startmenuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -228,8 +228,7 @@
               "ToolTip": "C:\\Users\\dfnaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\VSProj\\EducationalPractice_Fixed\\EducationalPractice\\GameMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "EducationalPractice\\GameMain.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T02:19:04.701Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-06-20T02:19:04.701Z"
             },
             {
               "$type": "Document",
@@ -253,8 +252,7 @@
               "ToolTip": "C:\\Users\\dfnaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\VSProj\\EducationalPractice_Fixed\\EducationalPractice\\StartMenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "EducationalPractice\\StartMenuForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T00:56:45.38Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-06-20T00:56:45.38Z"
             },
             {
               "$type": "Document",
@@ -266,8 +264,7 @@
               "RelativeToolTip": "EducationalPractice\\EnemyFactory.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAUwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:59:35.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:59:35.461Z"
             },
             {
               "$type": "Document",
@@ -279,8 +276,7 @@
               "RelativeToolTip": "EducationalPractice\\GameMain.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T00:52:10.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T00:52:10.924Z"
             },
             {
               "$type": "Document",
@@ -292,8 +288,7 @@
               "RelativeToolTip": "EducationalPractice\\IGameObjectFactory.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:59:31.589Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:59:31.589Z"
             },
             {
               "$type": "Document",
@@ -303,7 +298,7 @@
               "RelativeDocumentMoniker": "EducationalPractice.Tests\\EnemyFactoryTests.cs",
               "ToolTip": "C:\\Users\\dfnaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\VSProj\\EducationalPractice_Fixed\\EducationalPractice.Tests\\EnemyFactoryTests.cs",
               "RelativeToolTip": "EducationalPractice.Tests\\EnemyFactoryTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T12:59:39.04Z",
               "EditorCaption": ""
@@ -318,8 +313,7 @@
               "RelativeToolTip": "EducationalPractice\\StartMenuForm.Designer.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAUwB4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-20T01:00:21.535Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T01:00:21.535Z"
             },
             {
               "$type": "Document",
@@ -331,8 +325,7 @@
               "RelativeToolTip": "EducationalPractice\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T12:59:21.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:59:21.554Z"
             },
             {
               "$type": "Document",
@@ -344,21 +337,19 @@
               "RelativeToolTip": "EducationalPractice\\.gitignore",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-20T01:03:20.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T01:03:20.188Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "EducationalPractice",
+              "Title": "EducationalPractice.csproj",
               "DocumentMoniker": "C:\\Users\\dfnaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\VSProj\\EducationalPractice_Fixed\\EducationalPractice\\EducationalPractice.csproj",
               "RelativeDocumentMoniker": "EducationalPractice\\EducationalPractice.csproj",
               "ToolTip": "C:\\Users\\dfnaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\VSProj\\EducationalPractice_Fixed\\EducationalPractice\\EducationalPractice.csproj",
               "RelativeToolTip": "EducationalPractice\\EducationalPractice.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-20T00:32:33.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T00:32:33.184Z"
             },
             {
               "$type": "Document",
@@ -369,8 +360,7 @@
               "ToolTip": "C:\\Users\\dfnaf\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\VSProj\\EducationalPractice_Fixed\\EducationalPractice\\GameMain.resx",
               "RelativeToolTip": "EducationalPractice\\GameMain.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-06-20T00:52:04.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T00:52:04.742Z"
             },
             {
               "$type": "Document",
@@ -382,8 +372,7 @@
               "RelativeToolTip": "EducationalPractice.Tests\\EducationalPractice.Tests.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-19T12:59:49.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T12:59:49.302Z"
             },
             {
               "$type": "Document",

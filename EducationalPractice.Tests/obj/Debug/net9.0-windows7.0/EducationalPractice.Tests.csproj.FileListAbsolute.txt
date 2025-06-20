@@ -102,3 +102,4 @@ C:\Users\dfnaf\OneDrive\Рабочий стол\VSProj\EducationalPractice_Fixed
 C:\Users\dfnaf\OneDrive\Рабочий стол\VSProj\EducationalPractice_Fixed\EducationalPractice.Tests\obj\Debug\net9.0-windows7.0\EducationalPractice.Tests.pdb
 C:\Users\dfnaf\OneDrive\Рабочий стол\VSProj\EducationalPractice_Fixed\EducationalPractice.Tests\obj\Debug\net9.0-windows7.0\EducationalPractice.Tests.genruntimeconfig.cache
 C:\Users\dfnaf\OneDrive\Рабочий стол\VSProj\EducationalPractice_Fixed\EducationalPractice.Tests\obj\Debug\net9.0-windows7.0\ref\EducationalPractice.Tests.dll
+C:\Users\dfnaf\OneDrive\Рабочий стол\VSProj\EducationalPractice_Fixed\EducationalPractice.Tests\obj\Debug\net9.0-windows7.0\EducationalPractice.Tests.sourcelink.json
