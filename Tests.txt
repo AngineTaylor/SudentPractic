@@ -1,0 +1,13 @@
+  Пройден CreateEnemy_CannotBeCreatedOnEdgeOfPanel [22 ms]
+  Пройден CreateEnemy_CannotBeCreatedOutsideOfPanel [< 1 ms]
+  Пройден CreateEnemy_CreatesDifferentPositionsEachTime [1 ms]
+  Пройден CreateEnemy_CreationIsRandomized [1 ms]
+  Пройден CreateEnemy_DoesNotOverlapWithExisting [< 1 ms]
+  Пройден CreateEnemy_ReturnsEnemyWithCorrectSize [4 ms]
+  Пройден CreateEnemy_ReturnsEnemyWithinPanelBounds [< 1 ms]
+  Пройден CreateEnemy_ReturnsUniqueInstancesEachTime [1 ms]
+  Пройден CreateEnemy_WhenNoExisting_ReturnsValidEnemy [< 1 ms]
+NUnit Adapter 4.6.0.0: Test execution complete
+NUnit Adapter 4.6.0.0: Test execution complete
+  Пройден CreateEnemy_WhenPanelHasZeroSize_ThrowsException [3 ms]
+  Пройден CreateEnemy_WithMultipleExisting_DoesNotOverlap [< 1 ms]
